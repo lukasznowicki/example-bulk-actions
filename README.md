@@ -8,12 +8,7 @@ Current version: `0.1.0`
 <http://lukasznowicki.info/custom-bulk-actions/>
 
 ## Authors
-* £ukasz Nowicki <http://lukasznowicki.info/>
-
-## Changelog
-
-= 0.1.0 - 2016-12-08 =
-* First release
+* Lukasz Nowicki <http://lukasznowicki.info/>
 
 ## License
 Copyright 2016 phylax.pl £ukasz Nowicki
